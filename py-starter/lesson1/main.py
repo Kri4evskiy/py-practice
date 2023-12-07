@@ -6,4 +6,5 @@
 print('oyoyoyoyooy1')
 
 a: int = 5
+
 print(a)
